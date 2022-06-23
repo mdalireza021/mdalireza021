@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋 I'm Md. Ali Reza</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmanreza646" alt="rahmanreza646" /></a> </p>
 
-- 🔭 I’m currently working on ** ReactJS,Django**
+- 🔭 I’m currently working on **ReactJS,Django**
 
-- 🌱 I’m currently learning ** everything like about frontend and backend technologies**
+- 🌱 I’m currently learning **everything like about frontend and backend technologies**
 
-- 💬 Ask me about ** Anything**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **rahmanreza646@gmail.com**
 
-- ⚡ Fun fact ** I love travelling,coding and sleeping**
+- ⚡ Fun fact **I love travelling,coding and sleeping**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
