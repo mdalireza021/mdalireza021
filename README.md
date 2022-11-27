@@ -4,6 +4,7 @@
 
 <img alt="Developer Pic"
         src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
+        </div>
 - 🔭 I’m currently working on **Web Application Development**
 
 - 🌱 I’m currently learning **ReactJS,Django**
@@ -32,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmanreza646&" alt="rahmanreza646" /></p>
 
-</div>
+
