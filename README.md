@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋 I'm Md. Ali Reza</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmanreza646" alt="rahmanreza646" /></a> </p>
 
+<img alt="Developer Pic"
+        src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
 - 🔭 I’m currently working on **Web Application Development**
 
 - 🌱 I’m currently learning **ReactJS,Django**
