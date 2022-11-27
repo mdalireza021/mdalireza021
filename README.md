@@ -1,3 +1,5 @@
+<div align="center">
+
 <h1 align="center">Hi 👋 I'm Md. Ali Reza</h1>
 
 <img alt="Developer Pic"
@@ -30,3 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmanreza646&" alt="rahmanreza646" /></p>
 
+</div>
