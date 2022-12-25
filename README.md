@@ -1,13 +1,15 @@
 <div align="center">
 
-<h1 align="center">Hi 👋 I'm Md. Ali Reza</h1>
+---
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=57F9D1&size=23&center=true&vCenter=true&lines=Hello+World;I+'m+Reza;Passionate+Software+engineer;Welcome+to+my+profile)
+---
 
 <img alt="Developer Pic"
         src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
         </div>
 - 🔭 I’m currently working on **Web Application Development**
 
-- 🌱 I’m currently learning **ReactJS,Django**
+- 🌱 I’m currently learning **Back-End Development**
 
 - 💬 Ask me about **Algorithms, DSA, OOPS, DBMS, WEB Dev. etc**
 
