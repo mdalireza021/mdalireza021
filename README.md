@@ -1,7 +1,7 @@
 <div align="center">
 
 ---
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=57F9D1&size=23&center=true&vCenter=true&lines=Hello+World;I+'m+Reza!;Passionate+Software+engineer;Welcome+to+my+profile)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=57F9D1&size=23&center=true&vCenter=true&lines=Hello+World!;I+'m+Reza😐;Passionate+Software+engineer;Welcome+to+my+profile🙂)
 ---
 
 <img alt="Developer Pic"
