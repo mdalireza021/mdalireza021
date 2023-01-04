@@ -7,9 +7,11 @@
 <img alt="Developer Pic"
         src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
         </div>
-- 🔭 I’m currently working on **Web Application Development**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Back-End Development**
+- 🌱 I’m currently learning **MERN Stack**
+
+- 👯 I’m looking to collaborate on MERN Stack (MongoDB, Express, React and Node).
 
 - 💬 Ask me about **Algorithms, DSA, OOPS, DBMS, WEB Dev. etc**
 
