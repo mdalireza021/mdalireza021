@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Algorithms, DSA, OOPS, DBMS, WEB Dev. etc**
 
-- 📫 How to reach me **rahmanreza646@gmail.com**
+- 📫 How to reach me **mdalireza021@gmail.com**
 
 - ⚡ Fun fact **I think I am funny😊**
 
