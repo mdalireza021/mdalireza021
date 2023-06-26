@@ -10,7 +10,7 @@
 
 Hello, my name is Md. Ali Reza. I am a software engineer. I completed my graduation from Daffodil International University, where I gained a solid foundation in computer science and software development. I have always been passionate about creating software and programming, and it has become more than just a hobby for me. It's a journey of continuous learning and exploration in the tech world. I am determined to expand my knowledge and skills to create innovative solutions and contribute to the ever-evolving field of technology. With a strong desire to learn and a drive to create new things, I am excited about the possibilities that lie ahead in this fulfilling learning journey.
 
-- 🌱 I’m currently learning <strong>Ionic/ IOS Development</strong>.
+- 🌱 I’m currently working with <strong>Ionic, Swift, Angular, NodeJS </strong>.
 
 - ❓ Ask me about IOS/Ionic Development and Swift.
 
