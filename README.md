@@ -53,5 +53,5 @@
 </br>
 <h2 align="center">Visotor Count</h2>
     <p align="center">
-<!--     <img src="https://profile-counter.glitch.me/mdalireza021/count.svg" /> -->
+<img src="https://profile-counter.glitch.me/mdalireza021/count.svg"/>
     </p>
