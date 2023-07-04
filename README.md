@@ -51,7 +51,7 @@
    <img alt="GitHub Streak" width="60.5%" src="https://github-readme-streak-stats.herokuapp.com?user=mdalireza021&hide_border=true&type=svg&bg_color=ffffff"/>
 
 </br>
-<h2 align="center">Visotor Count</h2>
+<h2 align="center">Visitor Count</h2>
     <p align="center">
 <img src="https://profile-counter.glitch.me/mdalireza021/count.svg"/>
     </p>
